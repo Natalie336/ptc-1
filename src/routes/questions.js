@@ -8,33 +8,109 @@
  */
 export const questions = [
     {
-        question: "This is the first question.",
+        question: "This is the last week of class.",
         answers: [
             "True",
             "False"
         ],
         correct: 0,
+        time: 10
+    },
+    {
+        question: "Who made the first computer?",
+        answers: [
+            "Steve Jobs",
+            "Mr. Bonner",
+            "Charles Babbage",
+            "Elon Musk"
+        ],
+        correct: 2,
         time: 20
     },
     {
-        question: "Who made this question?",
+        question: "Which country has the most advanced technology?",
         answers: [
-            "Ben Thomas",
-            "Mr. Bonner",
-            "Sam Mote",
-            "Camryn Verhey"
+            "China",
+            "United States",
+            "Japan"
+        ],
+        correct: 0,
+        time: 20
+    },
+    {
+        question: "What is Michigan's state bird?",
+        answers: [
+            "Cardinal",
+            "Robin",
+            "Bald Eagle"
         ],
         correct: 1,
         time: 20
     },
     {
-        question: "How much time is left in this class?",
+        question: "How many people are in this class?",
         answers: [
-            "So much",
-            "A respectable amount",
-            "Not enough"
+            "9",
+            "8",
+            "10",
+            "11"
+        ],
+        correct: 2,
+        time: 15
+    },
+    {
+        question: "How long is this class?",
+        answers: [
+            "one hour",
+            "ninety minutes",
+            "two hours"
+        ],
+        correct: 1,
+        time: 20
+    },
+    {
+        question: "You can't see the hardware of a computer.",
+        answers: [
+            "False",
+            "True"
+            
+        ],
+        correct: 0,
+        time: 12
+    },
+    {
+        question: "What is the date today?",
+        answers: [
+            "May 17",
+            "March 19",
+            "March 18",
+            "May 18"
+        ],
+        correct: 3,
+        time: 18
+    }, {
+        question: "How long is a standard ruler?",
+        answers: [
+            "12 inches",
+            "6 inches",
+            "30 centimeters",
+            "Both A and C"
+        ],
+        correct: 3,
+        time: 20
+    },
+    {
+        question: "Are you excited for summer?",
+        answers: [
+            "Kinda",
+            "Nope",
+            "absolutely",
+            "Eh"
+
+            
         ],
         correct: 2,
         time: 20
-    }
+    },
+    
 ]
