@@ -88,29 +88,6 @@ export const questions = [
         ],
         correct: 3,
         time: 18
-    }, {
-        question: "How long is a standard ruler?",
-        answers: [
-            "12 inches",
-            "6 inches",
-            "30 centimeters",
-            "Both A and C"
-        ],
-        correct: 3,
-        time: 20
-    },
-    {
-        question: "Are you excited for summer?",
-        answers: [
-            "Kinda",
-            "Nope",
-            "absolutely",
-            "Eh"
-
-            
-        ],
-        correct: 2,
-        time: 20
-    },
+    }, 
     
 ]
