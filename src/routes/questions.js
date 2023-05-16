@@ -59,16 +59,6 @@ export const questions = [
         time: 15
     },
     {
-        question: "How long is this class?",
-        answers: [
-            "one hour",
-            "ninety minutes",
-            "two hours"
-        ],
-        correct: 1,
-        time: 20
-    },
-    {
         question: "You can't see the hardware of a computer.",
         answers: [
             "False",
@@ -77,6 +67,16 @@ export const questions = [
         ],
         correct: 0,
         time: 12
+    },
+    {
+        question: "How long is this class?",
+        answers: [
+            "one hour",
+            "ninety minutes",
+            "two hours"
+        ],
+        correct: 1,
+        time: 20
     },
     {
         question: "What is the date today?",
