@@ -48,14 +48,14 @@ export const questions = [
         time: 20
     },
     {
-        question: "How many people are in this class?",
+        question: "How many students are in this class?",
         answers: [
             "9",
             "8",
             "10",
             "11"
         ],
-        correct: 2,
+        correct: 0,
         time: 15
     },
     {
@@ -87,7 +87,39 @@ export const questions = [
             "May 18"
         ],
         correct: 3,
-        time: 18
+        time: 20
     }, 
-    
+    {
+        question: "What does Ctrl+V do?",
+        answers: [
+            "Copy",
+            "Paste",
+            "Cut",
+            "Delete"
+        ],
+        correct: 1,
+        time: 20
+    }, 
+    {
+        question: "What does Ctrl+C do?",
+        answers: [
+            "Copy",
+            "Paste",
+            "Cut",
+            "Delete"
+        ],
+        correct: 0,
+        time: 20
+    },
+    {
+        question: "What does Ctrl+X do?",
+        answers: [
+            "Copy",
+            "Paste",
+            "Cut",
+            "Delete"
+        ],
+        correct: 2,
+        time: 20
+    },  
 ]
